@@ -5,3 +5,6 @@
 - 📫 Mail : comercial.kallum@gmail.com
 - 📫 Discord : ! 𝙆𝙖𝙡𝙡𝙪𝙢 🦇#2895
 - 😄 Pronouns: He/Him
+
+![angelvinicius's github stats](https://github-readme-stats.vercel.app/api?username=angelvinicius&bg_color=282a42&title_color=5a7dbf&text_color=a6c4fc&show_icons=true)
+![angelvinicius's github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelvinicius&bg_color=282a42&title_color=5a7dbf&text_color=a6c4fc&layout=compact)
