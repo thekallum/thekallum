@@ -15,5 +15,5 @@
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/visual-studio-logo.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
-![angelvinicius github stats](https://github-readme-stats.vercel.app/api?username=angelvinicius&bg_color=000080&title_color=5a7dbf&text_color=a6c4fc&show_icons=true)
-![angelvinicius github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelvinicius&bg_color=000080&title_color=5a7dbf&text_color=a6c4fc&layout=compact)
+![angelvinicius github stats](https://github-readme-stats.vercel.app/api?username=angelvinicius&bg_color=000080&title_color=00008B&text_color=a6c4fc&show_icons=true)
+![angelvinicius github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelvinicius&bg_color=000080&title_color=00008B&text_color=a6c4fc&layout=compact)
