@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my project and FlowStep Inc.
+- 🔭 I’m currently working in DisCloud
 - 🌱 I’m currently learning JavaScript at Alura
 - 📫 Mail : comercial.kallum@gmail.com
 - 📫 Discord : Kallum#2895
