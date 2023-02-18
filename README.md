@@ -7,7 +7,7 @@
 <a target="_blank" style="color: white" href="https://www.instagram.com/kallumhk">
   <img align="left" alt="Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
-<a target="_blank" style="color: white" href="https://discord.com/invite/rktxF6hgYg">
+<a target="_blank" style="color: white" href="https://discord.com/">
   <img align="left" alt="Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
 </a>
 <a target="_blank" style="color: white" href="mailto:comercial.kallum@gmail.com">
