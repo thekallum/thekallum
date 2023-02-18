@@ -10,7 +10,7 @@
 <a target="_blank" style="color: white" href="https://discord.com/invite/rktxF6hgYg">
   <img align="left" alt="Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
 </a>
-<a target="_blank" style="color: white" href="mailto:yalenkaique@gmail.com">
+<a target="_blank" style="color: white" href="mailto:comercial.kallum@gmail.com">
   <img align="left" alt="Gmail" width="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
