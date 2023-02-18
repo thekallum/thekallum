@@ -1,19 +1,37 @@
-### Hi there 👋
+### 👋 **Hi!**  I'm Kallum.
+(Eu sou inútil eu sei kkk)
 
-- 🔭 I’m currently working in DisCloud
-- 🌱 I’m currently learning JavaScript at Alura
-- 📫 Mail : comercial.kallum@gmail.com
-- 📫 Discord : Kallum#2895
-- 😄 Pronouns: He/Him
+<a target="_blank" href="https://www.twitter.com/kallum_hk">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" />
+</a>
+<a target="_blank" style="color: white" href="https://www.instagram.com/kallumhk">
+  <img align="left" alt="Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
+</a>
+<a target="_blank" style="color: white" href="https://discord.com/invite/rktxF6hgYg">
+  <img align="left" alt="Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
+</a>
+<a target="_blank" style="color: white" href="mailto:yalenkaique@gmail.com">
+  <img align="left" alt="Gmail" width="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
+</a>
 
-#### :building_construction: Languages and tools:
+</br>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/ios-glyphs/30/0080FF/html-5.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/ios-glyphs/30/0080FF/css3.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://javascript.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/javascript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/0080FF/node-js.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/visual-studio-logo.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+---
+<img align="left" height="200" src="https://images-ext-2.discordapp.net/external/PGrCj_ySpEjeBr_MudXqxrcbhpQhi4ksdAGWHJivrsM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/475255757370032138/59abf5b04cada9ff9968a73b46ac319c.png"/>
 
-![kallumhk github stats](https://github-readme-stats.vercel.app/api?username=kallumhk&bg_color=000080&title_color=0000CD&text_color=a6c4fc&show_icons=true)
-![kallumhk github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kallumhk&bg_color=000080&title_color=0000CD&text_color=a6c4fc&layout=compact)
+Olá, muito prazer! Eu sou o **Kallum**, mas pode me chamar de **Kallum HK** ou **Yarlen**.
+
+Sou um ambicioso faz-nada de 16 anos e Sr. Moderator na DisCloud.
+
+---
+
+### **Projetos que contribuo:**
+<a target="_blank" href="https://discloud.app">**DisCloud** 
+  <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
+</a> - Serviço de hospedagem gratuita para Bots Discord e WebSites.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rhuangabrielsantos/rhuangabrielsantos/output/github-contribution-grid-snake.svg" />
+</p>
