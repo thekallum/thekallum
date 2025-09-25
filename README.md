@@ -21,7 +21,7 @@
 
 Olá, muito prazer! Eu sou o **Kallum**, mas pode me chamar de **Kallum HK** ou **Yarlen**.
 
-Sou um ambicioso faz-nada de 16 anos e Sr. Moderator na DisCloud.
+Sou um ambicioso faz-nada de 18 anos e Sr. Moderator na DisCloud.
 
 ---
 
@@ -33,5 +33,5 @@ Sou um ambicioso faz-nada de 16 anos e Sr. Moderator na DisCloud.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rhuangabrielsantos/rhuangabrielsantos/output/github-contribution-grid-snake.svg" />
+  <img src="" />
 </p>
