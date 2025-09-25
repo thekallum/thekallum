@@ -17,7 +17,7 @@
 </br>
 
 ---
-<img align="left" height="200" src="https://images-ext-2.discordapp.net/external/PGrCj_ySpEjeBr_MudXqxrcbhpQhi4ksdAGWHJivrsM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/475255757370032138/59abf5b04cada9ff9968a73b46ac319c.png"/>
+<img align="left" height="200" src="https://cdn.discordapp.com/avatars/475255757370032138/f91a980388473f43b0a46883b156515e.png?size=248"/>
 
 Olá, muito prazer! Eu sou o **Kallum**, mas pode me chamar de **Kallum HK** ou **Yarlen**.
 
