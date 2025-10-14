@@ -19,7 +19,7 @@
 ---
 <img align="left" height="200" src="https://cdn.discordapp.com/avatars/475255757370032138/f91a980388473f43b0a46883b156515e.png?size=2048"/>
 
-Olá, muito prazer! Eu sou o **Kallum**, mas pode me chamar de **Kallum HK** ou **Yarlen**.
+Olá, muito prazer! Eu sou o **Kallum**, mas pode me chamar de **thekallum** ou **Yarlen**.
 
 Sou um ambicioso faz-nada de 18 anos e Sr. Moderator na DisCloud.
 
