@@ -21,7 +21,7 @@
 
 Olá, muito prazer! Eu sou o **Kallum**, mas pode me chamar de **thekallum** ou **Yarlen**.
 
-Sou um ambicioso faz-nada de 18 anos e Sr. Moderator na DisCloud.
+Sou um ambicioso faz-nada de 19 anos e Sr. Moderator na DisCloud.
 
 ---
 
