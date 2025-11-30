@@ -1,4 +1,4 @@
-### 👋 **Hi!**  I'm Kallum.
+### 👋 **Hi!** I'm Kallum.
 (Eu sou inútil eu sei kkk)
 
 <a target="_blank" href="https://www.twitter.com/kallum_hk">
@@ -14,7 +14,7 @@
   <img align="left" alt="Gmail" width="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
-</br>
+<br/><br/>
 
 ---
 <img align="left" height="200" src="https://cdn.discordapp.com/avatars/475255757370032138/f91a980388473f43b0a46883b156515e.png?size=2048"/>
@@ -23,15 +23,20 @@ Olá, muito prazer! Eu sou o **Kallum**, mas pode me chamar de **thekallum** ou 
 
 Sou um ambicioso faz-nada de 19 anos e Sr. Moderator na DisCloud.
 
+<br/><br/>
+
 ---
 
 ### **Projetos que contribuo:**
-<a target="_blank" href="https://discloud.app">**DisCloud** 
-  <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
+<a target="_blank" href="https://discloud.app">**DisCloud** <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
 </a> - Serviço de hospedagem gratuita para Bots e WebSites.
 
 ---
 
-<p align="center">
-  <img src="" />
-</p>
+<div align="center">
+  <br/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thekallum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekallum&layout=compact&theme=dracula"/>
+</div>
