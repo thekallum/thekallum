@@ -7,12 +7,13 @@
 [![Discord Badge](https://img.shields.io/badge/-Kallum-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/475255757370032138)](https://discord.com/users/475255757370032138)
 [![Gmail Badge](https://img.shields.io/badge/-comercial.kallum@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.kallum@gmail.com)](mailto:comercial.kallum@gmail.com)
 
-Eu sou **Kallum** (também conhecido como **Yarlen** ou **thekallum**) 👋, desenvolvedor Backend e membro ativo da comunidade de tecnologia. Minha paixão é construir soluções escaláveis e eficientes.
+Eu sou **Kallum** (também conhecido como **Yarlen** ou **thekallum**) 👋, um entusiasta de tecnologia de 19 anos apaixonado por comunidades online e desenvolvimento de software. Minha jornada no mundo da tecnologia é movida pela curiosidade e pela vontade de aprender.
 
 ## 🌟 Sobre Mim
-Com 19 anos, sou um desenvolvedor entusiasmado e movido pela excelência.
 
-Minha jornada na tecnologia é focada em criar sistemas robustos e funcionais. Gosto de mergulhar em novas linguagens e frameworks, sempre buscando a solução mais elegante e performática para cada desafio. Sou ativo na comunidade e busco constantemente novas formas de expandir meu conhecimento.
+Atualmente, sou Senior Moderator e contribuidor na DisCloud, um serviço de hospedagem para bots e websites. Nessa função, ajudo a gerenciar a comunidade e a garantir que a plataforma atenda às necessidades de milhares de desenvolvedores.
+
+Estou sempre buscando novos desafios e projetos onde posso aplicar meu conhecimento e colaborar com outras pessoas para criar soluções inovadoras e eficientes.
 
 ## 🛠️ Skills e Tecnologias
 
