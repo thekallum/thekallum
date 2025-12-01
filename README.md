@@ -22,7 +22,7 @@ Estou sempre buscando novos desafios e projetos onde posso aplicar meu conhecime
   <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML5, CSS3, JavaScript, React"/>
 </div>
 
-### 💻 Backend & Lógica
+### 💻 Backend & Framework
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,flask,django" alt="Python, Flask, Django"/>
 </div>
