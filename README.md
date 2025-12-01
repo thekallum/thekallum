@@ -48,7 +48,7 @@ Minha principal contribuição é como **Sr. Moderator** no projeto DisCloud.
 - 💬 **Pergunte-me:** Sinta-se à vontade para perguntar sobre Python, Flask, infraestrutura DisCloud ou qualquer projeto open-source.
 - 🎯 **Portfólio Site:** [Acesse meu Portfólio](https://thekallum.github.io/)
 
-![Kallum's github stats](https://github-readme-stats.vercel.app/api?username=thekallum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&cache_seconds=1800)
+---
 
 <div align="center">
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=thekallum&cc=21262D&tc=C9D1D9&ic=58A6FF&bc=30363D"/>
