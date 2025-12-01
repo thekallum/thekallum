@@ -2,8 +2,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@kallum_hk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kallum_hk)](https://twitter.com/kallum_hk) 
-[![Instagram Badge](https://img.shields.io/badge/-@kallumhk-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kallumhk)](https://www.instagram.com/kallumhk)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/kallum_hk/)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&&logo=ko-fi&logoColor=white)](https://ko-fi.com/thekallum)
 [![Discord Badge](https://img.shields.io/badge/-Kallum-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/475255757370032138)](https://discord.com/users/475255757370032138)
 [![Gmail Badge](https://img.shields.io/badge/-comercial.kallum@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.kallum@gmail.com)](mailto:comercial.kallum@gmail.com)
 
