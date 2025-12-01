@@ -49,9 +49,17 @@ Minha principal contribuição é como **Sr. Moderator** no projeto DisCloud.
 - 🎯 **Portfólio Site:** [Acesse meu Portfólio](https://thekallum.github.io/)
 
 ---
+<p align="center">
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=thekallum&cc=21262D&tc=C9D1D9&ic=58A6FF&bc=30363D" alt="GitHub Stats Alpha"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=thekallum&theme=github-dark-blue&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 <div align="center">
-  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=thekallum&cc=21262D&tc=C9D1D9&ic=58A6FF&bc=30363D"/>
-
+  
 ```⭐️ Feito com 🧡 por Kallum```
 </div>
+
