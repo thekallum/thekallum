@@ -39,9 +39,8 @@ Minha jornada na tecnologia é focada em criar sistemas robustos e funcionais. G
 <br/>
 
 ## 🤝 Comunidade & Contribuições
-Minha principal contribuição é como **Sr. Moderator** no projeto DisCloud.
 
-* **🚀 Sr. Moderator** na **DisCloud**
+* **🚀 Sr. Moderator** na **Discloud**
 * **☁️ Experiência:** Gestão de ambientes e infraestrutura de Hosting.
 
 ## Hello World!! 🤔
