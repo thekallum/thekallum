@@ -50,10 +50,9 @@ Estou sempre buscando novos desafios e projetos onde posso aplicar meu conhecime
 
 ---
 <p align="center">
-  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=thekallum&cc=21262D&tc=C9D1D9&ic=58A6FF&bc=30363D" alt="GitHub Stats Alpha"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thekallum&theme=react" alt="GitHub Stats Alpha"/>
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=thekallum&theme=github-dark-blue&locale=pt_BR" alt="GitHub Streak" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekallum&theme=react" alt="GitHub Languages" />
   </a>
 </p>
 
