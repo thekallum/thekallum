@@ -50,10 +50,9 @@ Estou sempre buscando novos desafios e projetos onde posso aplicar meu conhecime
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thekallum/github-stats-transparent/ef1b9d4e4de802ef4aa8e7b04c8b5ef7a8b8fbd7/generated/overview.svg" alt="GitHub Stats Alpha"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/thekallum/github-stats-transparent/ef1b9d4e4de802ef4aa8e7b04c8b5ef7a8b8fbd7/generated/languages.svg" alt="GitHub Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=thekallum&theme=react&show_icons=true&hide_border=true&count_private=true" alt="thekallum's GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekallum&theme=react&show_icons=true&hide_border=true&layout=compact" alt="thekallum's GitHub Stats" width=358/>
 </p>
 
 
