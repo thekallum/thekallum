@@ -49,14 +49,30 @@ Estou sempre buscando novos desafios e projetos onde posso aplicar meu conhecime
 - 🎯 **Portfólio Site:** [Acesse meu Portfólio](https://thekallum.github.io/)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekallum&theme=react&show_icons=true&hide_border=true&count_private=true" alt="thekallum's GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekallum&theme=react&show_icons=true&hide_border=true&layout=compact" alt="thekallum's GitHub Stats" width=358/>
-</p>
-
-
 <div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=thekallum&theme=react&show_icons=true&hide_border=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=thekallum&show_icons=true&hide_border=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+<picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thekallum&layout=compact&theme=react&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thekallum&layout=compact&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekallum&layout=compact&hide_border=true" width=355/>
+</picture>
   
 ```⭐️ Feito com 🧡 por Kallum```
 </div>
