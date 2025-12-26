@@ -50,29 +50,15 @@ Estou sempre buscando novos desafios e projetos onde posso aplicar meu conhecime
 
 ---
 <div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thekallum&theme=react&show_icons=true&hide_border=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thekallum&show_icons=true&hide_border=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-<picture>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thekallum&layout=compact&theme=react&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thekallum&layout=compact&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekallum&layout=compact&hide_border=true" width=355/>
-</picture>
+<div align="center">
+  <a href="https://github.com/thekallum">
+    <img height="180em" src="https://github-stats.discloud.app/api?username=thekallum&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true"/>
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/thekallum">
+    <img height="180em" src="https://github-stats.discloud.app/api/top-langs/?username=thekallum&show_icons=true&count_private=true&include_all_commits=true&theme=react&layout=compact&hide_border=true"/>
+  </a>
+</div>
   
 ```⭐️ Feito com 🧡 por Kallum```
 </div>
