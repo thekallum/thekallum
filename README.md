@@ -52,11 +52,11 @@ Estou sempre buscando novos desafios e projetos onde posso aplicar meu conhecime
 <div align="center">
 <div align="center">
   <a href="https://github.com/thekallum">
-    <img height="180em" src="https://github-stats.discloud.app/api?username=thekallum&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true"/>
+    <img height="180em" src="https://github-stats.discloud.app/api?username=thekallum&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&v=1"/>
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/thekallum">
-    <img height="180em" src="https://github-stats.discloud.app/api/top-langs/?username=thekallum&show_icons=true&count_private=true&include_all_commits=true&theme=react&layout=compact&hide_border=true"/>
+    <img height="180em" src="https://github-stats.discloud.app/api/top-langs/?username=thekallum&show_icons=true&count_private=true&include_all_commits=true&theme=react&layout=compact&hide_border=true&v=1"/>
   </a>
 </div>
   
