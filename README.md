@@ -147,17 +147,15 @@ Uma versão web do MongoDB Compass, containerizada e pronta para deploy, permiti
   </tr>
 </table>
 
-<img align='center' src='https://imgur.com/Zkp3E2z.gif' width='30"'>
-
 <img src="https://streak-stats.demolab.com/?user=thekallum&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 
 <br /><br />
 
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="Coding GIF" />
+
+<br /><br />
+
 <img src="https://ghchart.rshah.org/7C3AED/thekallum" alt="Kallum's Github Chart" width="100%" />
-
-</div>
-
-<br />
 
 <div align="center">
   <sub>⭐️ Feito com 💜 por <b>Kallum</b></sub>
