@@ -31,7 +31,7 @@
 
 ## 🌟 Sobre Mim
 
-Eu sou **Kallum** (também conhecido como **Yarlen** ou **thekallum**) 👋, um entusiasta de tecnologia de 20 anos apaixonado por comunidades online e desenvolvimento de software. Minha jornada no mundo da tecnologia é movida pela curiosidade e pela vontade de aprender.
+Eu sou **Kallum** (também conhecido como **thekallum** ou **Yarlen**) 👋, um entusiasta de tecnologia de 20 anos apaixonado por comunidades online e desenvolvimento de software. Minha jornada no mundo da tecnologia é movida pela curiosidade e pela vontade de aprender.
 
 Atualmente, sou **Senior Moderator** e contribuidor na **DisCloud**, um serviço de hospedagem para bots e websites. Nessa função, ajudo a gerenciar a comunidade e a garantir que a plataforma atenda às necessidades de milhares de desenvolvedores.
 
