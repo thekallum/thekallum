@@ -97,7 +97,7 @@ Estou sempre buscando novos desafios e projetos onde posso aplicar meu conhecime
 Um bot discord para verificação de usuários em servidores.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/discord.py-5865F2?logo=discord&logoColor=white&style=for-the-badge)
 [![Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thekallum/astro-bot)
 
 </td>
