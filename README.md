@@ -128,7 +128,7 @@ Uma versão web do MongoDB Compass, containerizada e pronta para deploy, permiti
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:0D1117&height=2&section=header" width="100%" />
 
-## 📊 GitHub Stats & Activity
+## 📊 Status do Github e Atividade
 
 <div align="center">
 
